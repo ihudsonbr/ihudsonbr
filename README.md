@@ -20,10 +20,6 @@
 
 ###
 
-<h1 align="center">Hello World! 👋</h1>
-
-###
-
 <h3 align="left">🛠 Linguagens e ferramentas</h3>
 
 ###
