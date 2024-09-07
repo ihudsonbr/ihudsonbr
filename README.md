@@ -24,14 +24,6 @@
 
 ###
 
-<h3 align="left">👩‍💻  Sobre mim</h3>
-
-###
-
-<p align="left">Em constante evolução!</p>
-
-###
-
 <h3 align="left">🛠 Linguagens e ferramentas</h3>
 
 ###
